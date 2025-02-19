@@ -144,7 +144,7 @@ collections:
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
           - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false, required: false}
   - name: research
-    label: research
+    label: Research
     label_singular: Project
     folder: 'content/research'
     path: '{{slug}}/index'
