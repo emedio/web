@@ -228,7 +228,7 @@ collections:
       - label: "Publication type"
         name: "publication_types"
         required: true
-        default: ["paper-conference"]
+        default: ["article-journal"]
         widget: "select"
         # Can only have 1 pub. type assigned, but need `multiple` option to save as a Hugo taxonomy list.
         multiple: true
