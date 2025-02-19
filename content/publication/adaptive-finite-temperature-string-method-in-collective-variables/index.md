@@ -3,8 +3,8 @@ title: Adaptive Finite Temperature String Method in Collective Variables
 publication_types:
   - article-journal
 authors:
-  - Kirill Zinovjev
-  - Iñaki Tuñón
+  - Kirill
+  - Inaki
 doi: 10.1021/acs.jpca.7b10842
 abstract: "Here we present a modified version of the on-the-fly string method
   for the localization of the minimum free energy path in a space of arbitrary
