@@ -5,76 +5,50 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
+      title: Iñaki Tuñón Research Group
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        <div style="display: flex; align-items: center;">
+        <p>The research group was founded by Prof. Estanislao Silla in the Department of Physical Chemistry of the University of Valencia 
+        at the beginning of the 90's. The scientific work of the group has been always focused on the theoretical description of chemical 
+        processes in condensed phases: solutions and biological environments. The group is currently led by Iñaki Tuñón.</p>
+        <div style="margin-left: 20px; width: 150%;">
+          {{< figure src="group.jpg" alt="Research Group" lightbox="false" >}}
+        </div>
+        </div>
+    design:
+      background:
+        image:
+          filename: background.png
+      spacing:
+        padding: ['20px', '0', '20px', '0']
   
   - block: collection
     content:
-      title: Latest News
+      title: Research
       subtitle:
       text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
+      count: 3
       offset: 0
       order: desc
-      page_type: post
+      page_type: research
     design:
-      view: card
+      view: masonry
       columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest papers
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: 'article-journal'
     design:
       view: citation
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---

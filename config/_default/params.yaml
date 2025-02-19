@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    description: 'Iñaki Tuñón research group'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -34,18 +34,20 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: l
     show_logo: true
+    logo:
+      filename: logo.png
     show_language: false
     show_day_night: true
-    show_search: true
-    highlight_active_link: false
+    show_search: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Kirill Zinovjev. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -90,13 +92,6 @@ features:
       repo_id: ''
       category: ''
       category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
   map:
     provider: 'mapnik'
     api_key: ''
@@ -116,3 +111,5 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+i_am_a_sponsor: true
