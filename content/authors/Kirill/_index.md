@@ -26,4 +26,4 @@ user_groups:
   - Members
 weight: 10
 ---
-Kirill Zinovjev obtained his BSc in chemistry in the Riga Technical University (2010, Latvia) and Msc in Theoretical Chemistry and Computational Modelling in University of Valencia (2012) under the supervision of Iñaki Tuñón. His current job focuses on the development of computational methods for studies of complex chemical reactions in condensed phase. Particularly, he works on the application of path-optimization and transition-state-optimization techniques to enzymatic catalysis.
+Kirill Zinovjev obtained his BSc in chemistry in the Riga Technical University (2010) and Msc in Theoretical Chemistry and Computational Modelling in University of Valencia (2012) under the supervision of Iñaki Tuñón. His current job focuses on the development of computational methods for studies of complex chemical reactions in condensed phase. Particularly, he works on the application of path-optimization and transition-state-optimization techniques to enzymatic catalysis.
