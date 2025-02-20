@@ -11,9 +11,11 @@ sections:
       text: |
         <br>
         <div style="display: flex; align-items: center;">
-        <p>The research group was founded by Prof. Estanislao Silla in the Department of Physical Chemistry of the University of Valencia 
-        at the beginning of the 90's. The scientific work of the group has been always focused on the theoretical description of chemical 
-        processes in condensed phases: solutions and biological environments. The group is currently led by Iñaki Tuñón.</p>
+        <p>The research group Medium Effects leaded by Prof. Iñaki Tuñón is 
+        placed at the Department of Physical Chemistry of the University of 
+        Valencia, The scientific work of the group is focused on the theoretical
+        description of chemical processes in condensed phases, solution and 
+        biological environments, combining theory and simulations.</p>
         <div style="margin-left: 20px; width: 150%;">
           {{< figure src="group.jpg" alt="Research Group" lightbox="false" >}}
         </div>
