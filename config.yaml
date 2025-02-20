@@ -16,4 +16,8 @@ mediaTypes:
   application/yaml:
     suffixes:
       - yml
+backend:
+  name: github
+  repo: emedio/web
+  branch: main  # Ensure this matches the protected branch
 publish_mode: editorial_workflow
