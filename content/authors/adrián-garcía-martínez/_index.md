@@ -7,7 +7,7 @@ social:
       header: false
     link: https://x.com/_GM_Adrian
     icon_pack: far
-    icon: twitter
+    icon: x
   - display:
       header: false
     link: adrian.garcia-martinez@uv.es
