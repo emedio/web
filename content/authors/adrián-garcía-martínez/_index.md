@@ -7,8 +7,13 @@ social:
       header: false
     link: https://x.com/_GM_Adrian
     icon_pack: far
-    icon: x
-email: adrian.garcia-martinez@uv.es
+    icon: twitter
+  - display:
+      header: false
+    link: adrian.garcia-martinez@uv.es
+    icon: mail
+    icon_pack: fas
+email: ""
 superuser: false
 user_groups:
   - Students
