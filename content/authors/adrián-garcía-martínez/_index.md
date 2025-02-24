@@ -10,4 +10,6 @@ social:
     icon: x
 email: adrian.garcia-martinez@uv.es
 superuser: false
+user_groups:
+  - Students
 ---
