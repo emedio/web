@@ -1,7 +1,7 @@
 ---
 title: Adrián García-Martínez
 role: PhD Student
-avatar_filename: 2023-07-22_11h46_02.png
+avatar_filename: avatar.png
 social:
   - display:
       header: false
