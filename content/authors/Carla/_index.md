@@ -32,7 +32,7 @@ social:
     icon_pack: fas
     link: 'mailto:carla.orlando@unimib.it'
   - icon: linkedin
-    icon_pack: 
+    icon_pack: fab
     link: https://www.linkedin.com/in/carla-orlando-206012210/
   - icon: orcid
     icon_pack: ai
