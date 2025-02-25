@@ -8,15 +8,29 @@ collections:
   - name: authors
     label: Authors
     label_singular: Author
+    editor:
+      preview: false
     folder: 'content/authors'
+    identifier_field: slug
     path: '{{slug}}/_index'
     filter: {field: "cms_exclude"}
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
+      - {label: "Slug (used as a shortcut in publication authors lists)", name: "slug", widget: "string"}
       - {label: "Display name (such as your full name)", name: "title", widget: "string"}
       - {label: "First name", name: "first_name", widget: "string", required: false}
       - {label: "Last name", name: "last_name", widget: "string", required: false}
-      - {label: "Position or tagline (such as Professor of AI)", name: "role", widget: "string", required: false}
+      - label: "Role"
+        name: "role"
+        required: false
+        default:
+        widget: "select"
+        options:
+          - "Group leader"
+          - "Group member"
+          - "PhD Student"
+          - "Master Student"
+          - "Undergrad Student"
       - label: "Avatar (upload an image named `avatar.jpg/png`)"
         name: "avatar_filename"
         widget: "image"
@@ -33,31 +47,31 @@ collections:
         widget: "list"
       - label: Social links
         name: social
-        required: false
         widget: list
+        min: 3
+        max: 3
+        summary: "{{title}}"
+        default:
+          - icon: envelope
+            title: Email
+            icon_pack: fas
+          - icon: twitter
+            title: Twitter
+            icon_pack: fab
+          - icon: google-scholar
+            title: Google Scholar
+            icon_pack: ai
         fields:
-          - {label: Link, name: link, widget: string}
+          - label: Link
+            name: link
+            widget: string
+            required: false  # This makes the link optional.
+          - label: Icon
+            name: icon
+            widget: hidden
           - label: Icon pack
             name: icon_pack
-            widget: select
-            multiple: false
-            options:
-              - {label: "None", value: ""}
-              - {label: "Solid", value: "fas"}
-              - {label: "Regular", value: "far"}
-              - {label: "Brand", value: "fab"}
-              - {label: "Academic", value: "ai"}
-          - {label: Icon (see https://docs.hugoblox.com/getting-started/page-builder/#icons), name: icon, widget: string}
-          - {label: Label (tooltip), name: label, widget: string, required: false}
-          - label: Display in About widget and...
-            name: display
-            widget: object
-            fields:
-              - label: "Header (main menu)"
-                name: "header"
-                widget: "boolean"
-                default: false
-                required: false
+            widget: hidden
       - label: "Organizations you belong to or are affiliated with (shown in About widget)"
         name: "organizations"
         required: false
@@ -78,15 +92,23 @@ collections:
               - {label: Course, name: course, widget: string, required: true}
               - {label: Institution, name: institution, widget: string, required: true}
               - {label: Year, name: year, widget: number, value_type: int, required: false}
-      - {label: "Email (to use a Gravatar.com avatar)", name: "email", widget: "string", required: false}
-      - label: "Super user (is this the primary site user?)"
-        name: "superuser"
-        widget: "boolean"
-        default: false
-      - label: "User groups (only for organization websites)"
+      - label: "User group (in People section)"
         name: "user_groups"
-        required: false
-        widget: "list"
+        required: true
+        widget: list
+        min: 1
+        max: 1
+        default: ["Members"]
+        value_field: group
+        field:
+          label: "Group"
+          name: group
+          widget: select
+          options:
+            - Members
+            - Students
+            - Visitors
+            - Former members
   - name: news
     label: News
     label_singular: Post
