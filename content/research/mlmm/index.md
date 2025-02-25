@@ -3,7 +3,7 @@ title: ML/MM embedding with EMLE
 show_date: false
 ---
 
-The project focuses on integrating machine‐learned potentials into hybrid QM/MM simulations via a electrostatic machine learning embedding (EMLE) approach.
+The project focuses on integrating machine‐learned potentials into hybrid QM/MM simulations via electrostatic machine learning embedding (EMLE) approach.
 
 <!--more-->
 
