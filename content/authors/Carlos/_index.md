@@ -7,10 +7,10 @@ role: Group member
 social:
   - icon: envelope
     icon_pack: fas
-    link: carlos.ramos@bristol.ac.uk
+    link: 'mailto:carlos.ramos@bristol.ac.uk'
   - icon: globe
     icon_pack: fas
-    link: www.carlosramosg.com
+    link: https://www.carlosramosg.com
   - icon: orcid
     icon_pack: academicons
     link: https://orcid.org/0000-0002-7701-377X
