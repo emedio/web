@@ -1,5 +1,4 @@
 ---
-slug: Carlos
 title: Carlos Ramos
 first_name: Carlos
 last_name: Ramos
