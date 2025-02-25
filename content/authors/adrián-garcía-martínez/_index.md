@@ -1,7 +1,7 @@
 ---
 title: Adrián García-Martínez
 role: PhD Student
-avatar_filename: avatar.png
+avatar_filename: ""
 social:
   - icon: envelope
     icon_pack: fas
