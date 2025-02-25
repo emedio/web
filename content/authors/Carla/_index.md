@@ -1,3 +1,11 @@
+---
+# Display name
+title:  Carla Orlando
+
+# Full Name (for SEO)
+first_name: Carla
+last_name: Orlando
+
 # Role/position
 role: PhD Student
 
