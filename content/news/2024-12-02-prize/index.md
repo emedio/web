@@ -1,8 +1,6 @@
 ---
 title: Paper of the month!
 date: 2024-12-02
-image:
-  focal_point: 'top'
 ---
 
 Happy to share that our paper on pomotrelvir and nirmatrelvir binding and reactivity with SARS-CoV-2 main protease in 
