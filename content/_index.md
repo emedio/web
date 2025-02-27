@@ -31,13 +31,15 @@ sections:
   
   - block: collection
     content:
-      title: News
+      title: Latest News
       subtitle:
       text:
-      count: 6
+      count: 3
       offset: 0
       order: desc
       page_type: news
+      archive:
+        enable: true
     design:
       view: masonry
       columns: '1'
