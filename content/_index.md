@@ -43,18 +43,4 @@ sections:
     design:
       view: masonry
       columns: '1'
-
-  - block: collection
-    content:
-      title: Latest papers
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article-journal'
-    design:
-      view: citation
-      columns: '1'
-
 ---
