@@ -31,13 +31,13 @@ sections:
   
   - block: collection
     content:
-      title: Research
+      title: News
       subtitle:
       text:
-      count: 3
+      count: 6
       offset: 0
       order: desc
-      page_type: research
+      page_type: news
     design:
       view: masonry
       columns: '1'
