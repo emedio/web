@@ -5,21 +5,23 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown
+  - block: hero
     content:
       title: Iñaki Tuñón Research Group
+      image:
+        filename: group.jpg
       text: |
-        <br>
-        <div style="display: flex; align-items: center;">
-        <p>The research group Medium Effects led by Prof. Iñaki Tuñón is 
+        The research group Medium Effects led by Prof. Iñaki Tuñón is 
         placed at the Department of Physical Chemistry of the University of 
         Valencia, The scientific work of the group is focused on the theoretical
         description of chemical processes in condensed phases, solution and 
-        biological environments, combining theory and simulations.</p>
-        <div style="margin-left: 20px; width: 150%;">
-          {{< figure src="group.jpg" alt="Research Group" lightbox="false" >}}
-        </div>
-        </div>
+        biological environments, combining theory and simulations.
+      cta:
+        label: Research
+        url: research
+      cta_alt:
+        label: Contact
+        url: contact
     design:
       background:
         image:
