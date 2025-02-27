@@ -10,6 +10,11 @@ sections:
       title: Contact us
       email: tunon@uv.es
       phone:  +34 963 544 880
+      contact_links:
+        - icon: twitter
+          name: EfmeGroup Twitter
+          icon_pack: fab
+          link: https://x.com/EfmeGroup
       address:
         street: calle Dr. Moliner 50
         city: Burjassot
