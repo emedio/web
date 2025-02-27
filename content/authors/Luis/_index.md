@@ -22,9 +22,9 @@ education:
     - course: M.Sc. in theoretical chemistry and computational modeling
       institution: Universidad de Valencia
       year: 2023-2025
-	- course: B.Sc in chemistry and nanotechnology engineering
-	  institution: Instituto Tecnológico y de Estudios Superiores de Monterrey
-	  year: 2018-2023
+    - course: B.Sc in chemistry and nanotechnology engineering
+      institution: Instituto Tecnológico y de Estudios Superiores de Monterrey
+      year: 2018-2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
