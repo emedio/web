@@ -4,9 +4,9 @@ date: 2024-12-02
 ---
 
 🚀 Exciting news! Our latest research on the catalytic mechanism of GTP 
-hydrolysis by RhoA has been accepted in ACS Catalysis! 🧪🔬 We reveal how 
-glutamine tautomerism plays a crucial role in enzymatic activity. Check out the 
-preprint [here](https://chemrxiv.org/engage/chemrxiv/article-details/672883497be152b1d0ec114b)
+hydrolysis by RhoA has been accepted in 
+[ACS Catalysis](https://pubs.acs.org/doi/full/10.1021/acscatal.5c00719)!
+🧪🔬 We reveal how glutamine tautomerism plays a crucial role in enzymatic activity.
 
 <!--more-->
 
