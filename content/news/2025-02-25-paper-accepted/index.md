@@ -1,5 +1,4 @@
 ---
-title: New paper accepted
 date: 2024-12-02
 ---
 

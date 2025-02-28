@@ -1,5 +1,4 @@
 ---
-title: New publication in Nat.Comm.!
 date: 2024-03-20
 ---
 

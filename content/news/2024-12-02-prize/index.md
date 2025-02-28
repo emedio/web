@@ -1,5 +1,4 @@
 ---
-title: Paper of the month!
 date: 2024-12-02
 ---
 

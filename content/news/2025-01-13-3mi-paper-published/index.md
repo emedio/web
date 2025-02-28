@@ -1,9 +1,8 @@
 ---
-title: Paper published
 date: 2025-01-13
 ---
 
-​We are excited to announce the publication of our 
+We are excited to announce the publication of our 
 [latest work](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.4c02949) 
 in The 
 Journal of Physical Chemistry Letters: "Improved Description of Environment and 
