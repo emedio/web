@@ -5,7 +5,7 @@ authors:
   - Adrian
   - Javi
   - Inaki
-date: "2023-02-27"
+date: "2025-02-27"
 doi: "10.1021/acscatal.5c00719"
 
 # Publication type.
