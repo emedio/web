@@ -2,6 +2,15 @@
 title: Adrián García-Martínez
 role: PhD Student
 avatar_filename: avatar.png
+
+education:
+    - course: M.Sc. in Theoretical Chemistry and Computational Modelling
+      institution: Universidad de Valencia
+      year: 2022
+    - course: B.Sc. in Chemistry
+      institution: Universidad de Murcia
+      year: 2020
+      
 social:
   - icon: envelope
     icon_pack: fas
