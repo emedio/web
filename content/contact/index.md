@@ -16,7 +16,7 @@ sections:
           icon_pack: fab
           link: https://x.com/EfmeGroup
       address:
-        street: calle Dr. Moliner 50
+        street: Calle Dr. Moliner 50
         city: Burjassot
         postcode: '46100'
         country: Spain
