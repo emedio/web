@@ -24,7 +24,7 @@ sections:
       coordinates:
         latitude: '39.50755262948269'
         longitude: '-0.41965777320533386'
-      directions: Enter Building E and take the elevator to the Floor 3
+      directions: Building E, 3rd Floor
     
       # Automatically link email and phone or display as text?
       autolink: true
