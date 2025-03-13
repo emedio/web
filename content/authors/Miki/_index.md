@@ -24,7 +24,7 @@ education:
       year: 2021
     - course: B.Sc. in Physical Chemistry
       institution: Univeristy of Belgrade
-      year: 2016
+      year: 2019
 user_groups:
   - Students
 ---
