@@ -106,14 +106,14 @@
 
     {{ with $data.directions }}
     <li>
-      <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
+      <i class="fa-li fas fa-compass fa-lg" aria-hidden="true"></i>
       <span>{{ . | markdownify | emojify }}</span>
     </li>
     {{ end }}
 
     {{ with $data.office_hours }}
     <li>
-      <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
+      <i class="fa-li fas fa-clock fa-lg" aria-hidden="true"></i>
       <span>
         {{- if not (reflect.IsSlice .)}}{{/* Support legacy string format. */}}
           {{- . | markdownify | emojify -}}
@@ -126,7 +126,7 @@
 
     {{ with $data.appointment_url }}
     <li>
-      <i class="fa-li fas fa-calendar-check fa-2x" aria-hidden="true"></i>
+      <i class="fa-li fas fa-calendar-check fa-lg" aria-hidden="true"></i>
       <a href="{{ . }}" target="_blank" rel="noopener">{{ i18n "book_appointment" | default "Book an appointment" }}</a>
     </li>
     {{ end }}
