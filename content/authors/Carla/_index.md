@@ -31,9 +31,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:carla.orlando@unimib.it'
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/carla-orlando-206012210/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
