@@ -8,7 +8,7 @@ social:
   - icon: envelope
     icon_pack: fas
     title: Email
-    link: m.teresa.roca@uv.es
+    link: 'mailto:m.teresa.roca@uv.es'
   - icon: twitter
     icon_pack: fab
     title: Twitter
