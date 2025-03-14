@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:milorad.andelkovic@uv.es
+    link: 'mailto:milorad.andelkovic@uv.es'
   - icon: twitter
     icon_pack: fab
     link: https://x.com/_Andjelkovic_M
