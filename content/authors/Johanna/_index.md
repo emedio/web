@@ -32,6 +32,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:johanna.schillings@rwth-aachen.de'
+  - icon: twitter
+    icon_pack: fab
+    link: https://x.com/schillings_jo
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
