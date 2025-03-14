@@ -6,6 +6,9 @@ title:  Johanna Schillings
 first_name: Johanna
 last_name: Schillings
 
+# Role/position
+role: MSc Student
+
 # # Organizations/Affiliations
 # organizations:
 #   - name: Universidad de Valencia
