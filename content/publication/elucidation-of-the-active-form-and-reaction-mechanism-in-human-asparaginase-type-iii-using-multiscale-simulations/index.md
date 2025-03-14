@@ -7,6 +7,7 @@ authors:
   - Miki
   - Kirill
 doi: 10.1021/acs.jcim.3c00900
+publication: J. Chem. Inf. Model.
 draft: false
 featured: false
 image:
