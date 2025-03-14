@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Miki
   - Kirill
-doi: https://doi.org/10.1021/acs.jcim.3c00900
+doi: 10.1021/acs.jcim.3c00900
 draft: false
 featured: false
 image:
