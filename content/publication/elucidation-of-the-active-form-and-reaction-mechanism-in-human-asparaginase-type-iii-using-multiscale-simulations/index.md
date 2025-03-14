@@ -3,6 +3,9 @@ title: Elucidation of the active form and reaction mechanism in human
   asparaginase type III using multiscale simulations
 publication_types:
   - article-journal
+authors:
+  - Miki
+  - Kirill
 doi: https://doi.org/10.1021/acs.jcim.3c00900
 draft: false
 featured: false
