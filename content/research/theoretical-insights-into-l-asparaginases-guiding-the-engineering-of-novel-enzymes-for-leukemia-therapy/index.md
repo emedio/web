@@ -9,6 +9,11 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+This project focuses on the study of different types and origins of L-asparaginase to enhance their therapeutic potential in leukemia treatment.
+
+<!--more-->
+
 L-Asparaginases (ASNases) are enzymes that hydrolyze L-asparagine (Asn) into L-aspartic acid (Asp) and
 ammonia, playing a key role in leukemia therapy by depriving leukemic cells of Asn, leading to apoptosis. 
 
