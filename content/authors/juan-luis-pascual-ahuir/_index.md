@@ -9,12 +9,6 @@ social:
     icon_pack: fas
     title: Email
     link: 'mailto:juan.l.pascual@uv.es'
-  - icon: twitter
-    icon_pack: fab
-    title: Twitter
-  - icon: google-scholar
-    icon_pack: ai
-    title: Google Scholar
 user_groups:
   - Former members
 ---
