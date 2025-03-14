@@ -6,6 +6,9 @@ title:  Jose Luis Velázquez
 first_name: Jose Luis
 last_name: Velázquez
 
+# Role/position
+role: PhD Student
+
 # # Organizations/Affiliations
 # organizations:
 #   - name: Universidad de Valencia
