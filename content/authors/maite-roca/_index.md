@@ -3,7 +3,7 @@ slug: Maite Roca
 title: Maite Roca
 first_name: María Teresa
 last_name: Roca Moliner
-role: Professor
+role: Associate Professor
 avatar_filename: maite.jpg
 social:
   - icon: envelope
