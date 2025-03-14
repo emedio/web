@@ -7,7 +7,7 @@ first_name: Marion
 last_name: Cunin
 
 # Role/position
-role: PhD Student
+role: MSc Student
 
 # # Organizations/Affiliations
 # organizations:
