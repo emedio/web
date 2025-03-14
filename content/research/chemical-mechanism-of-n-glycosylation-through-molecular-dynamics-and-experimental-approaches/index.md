@@ -1,6 +1,10 @@
 ---
 title: Chemical mechanism of N-glycosylation through molecular dynamics and
   experimental approaches
+subtitle: "The project aims to unravel the chemical mechanism of N-glycosylation
+  in oligosaccharyltransferase (OST) complex, a crucial post-translational
+  modification that influences protein folding, stability, and function,
+  particularly for membrane and secretory proteins. "
 date: 2025-03-13T17:05:00.000Z
 draft: false
 featured: false
