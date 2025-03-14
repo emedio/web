@@ -8,7 +8,7 @@ social:
   - icon: envelope
     icon_pack: fas
     title: Email
-    link: juan.l.pascual@uv.es
+    link: 'mailto:juan.l.pascual@uv.es'
   - icon: twitter
     icon_pack: fab
     title: Twitter
