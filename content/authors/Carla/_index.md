@@ -34,9 +34,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/carla-orlando-206012210/
-  - icon: orcid
-    icon_pack: ai
-    link: https:https://orcid.org/0009-0007-8916-4034
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
