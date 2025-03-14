@@ -9,7 +9,7 @@ social:
   - icon: envelope
     icon_pack: fas
     title: Email
-    link: rafael.garcia-meseguer@uv.es
+    link: 'mailto:rafael.garcia-meseguer@uv.es'
   - icon: twitter
     icon_pack: fab
     title: Twitter
