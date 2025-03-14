@@ -6,6 +6,9 @@ publication_types:
 authors:
   - Miki
   - Kirill
+  - Carlos
+  - Javi
+  - Inaki
 doi: 10.1021/acs.jcim.3c00900
 publication: J. Chem. Inf. Model.
 draft: false
