@@ -10,7 +10,7 @@ doi: https://doi.org/10.1021/acs.jcim.3c00900
 draft: false
 featured: false
 image:
-  filename: ci3c00900_0010.webp
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 summary: L-asparaginases catalyze the asparagine hydrolysis to aspartate. These
