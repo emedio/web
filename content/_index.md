@@ -8,6 +8,8 @@ sections:
   - block: hero
     content:
       title: Iñaki Tuñón Research Group
+      image:
+        filename: group.png
       text: |
 
 
