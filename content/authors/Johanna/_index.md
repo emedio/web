@@ -47,4 +47,3 @@ user_groups:
   - Former members
 ---
 
-Johanna is a captivating member of our research group, driven by an unwavering passion for scientific exploration. Alongside her academic pursuits in chemistry at the RWTH Aachen University, she unveils her extraordinary talent as a gifted violinist, finding harmony between art and science. An avid triathlete, she embraces a disciplined and active lifestyle that fosters determination and resilience in her research endeavors. Beyond her exceptional abilities, Johanna's infectious happiness uplifts everyone around her, creating a supportive and joyful atmosphere within the group. Currently pursuing her Master's thesis at the RWTH Aachen University, she has delved into the reaction mechanisms of SARS-CoV-2 antivirals under the guidance of Professor Iñaki Tuñón. Johanna's multifaceted nature and dedication to making a positive impact make her an invaluable asset to our team.
