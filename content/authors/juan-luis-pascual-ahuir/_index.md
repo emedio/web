@@ -4,6 +4,7 @@ title: Juan Luis Pascual-Ahuir
 first_name: Juan Luis
 last_name: Pascual-Ahuir
 avatar_filename: juanlp.jpg
+role: Professor
 social:
   - icon: envelope
     icon_pack: fas
