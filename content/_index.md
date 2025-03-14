@@ -41,4 +41,5 @@ sections:
     design:
       view: masonry
       columns: '1'
+
 ---
