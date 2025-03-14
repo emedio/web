@@ -9,9 +9,6 @@ social:
     icon_pack: fas
     title: Email
     link: 'mailto:m.teresa.roca@uv.es'
-  - icon: twitter
-    icon_pack: fab
-    title: Twitter
   - icon: google-scholar
     icon_pack: ai
     title: Google Scholar
