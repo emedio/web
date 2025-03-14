@@ -1,23 +1,20 @@
 ---
 title: Elucidation of the active form and reaction mechanism in human
   asparaginase type III using multiscale simulations
-publication_types:
-  - article-journal
+
 authors:
   - Miki
   - Kirill
   - Carlos
   - Javi
   - Inaki
+date: "2023-12-10"
+
 doi: 10.1021/acs.jcim.3c00900
-publication: J. Chem. Inf. Model.
-draft: false
-featured: false
-image:
-  filename: featured.png
-  focal_point: Smart
-  preview_only: false
-summary: L-asparaginases catalyze the asparagine hydrolysis to aspartate. These
+publication: "J. Chem. Inf. Model."
+publication_types: ["article-journal"]
+
+abstract: L-asparaginases catalyze the asparagine hydrolysis to aspartate. These
   enzymes play an important role in the treatment of acute lymphoblastic
   leukemia because these cells are unable to produce their own asparagine. Due
   to the immunogenic response and various side effects of enzymes of bacterial
@@ -41,5 +38,6 @@ summary: L-asparaginases catalyze the asparagine hydrolysis to aspartate. These
   contribute to the comprehension of the disparities among different ASNases and
   might even guide the design of new variants with improved properties for acute
   lymphoblastic leukemia treatment.
-date: 2025-03-14T14:35:00.000Z
+
+url_pdf: https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00900
 ---
