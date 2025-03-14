@@ -4,6 +4,7 @@ title: Milorad Andjelkovic
 first_name: Milorad
 last_name: Andjelkovic
 role: PhD Student
+avatar_filename: andjelkovic-milorad-3.jpg
 interests:
   - Enzymatic reaction mechanisms
   - de novo Protein Design
