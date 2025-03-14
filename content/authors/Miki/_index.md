@@ -1,5 +1,5 @@
 ---
-slug: " "
+slug: "Milorad Andjelkovic "
 title: Milorad Andjelkovic
 first_name: Milorad
 last_name: Andjelkovic
