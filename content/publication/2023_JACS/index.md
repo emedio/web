@@ -2,10 +2,10 @@
 title: "Insights into the Enhancement of the Poly(ethylene terephthalate) Degradation by FAST-PETase from Computational Modeling"
 authors:
   - Rafa
-  - Enrique
+  - E. Orti
   - Inaki
   - Javi
-  - Juan
+  - J. Arago
 date: "2023-08-16"
 doi: "10.1021/jacs.3c04427"
 
