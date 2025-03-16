@@ -1,10 +1,10 @@
 ---
 title: "On the Nature of the Enzyme - Substrate Complex and the Reaction Mechanism in Human Arginase I. A Combined Molecular Dynamics and QM/MM Study"
 authors:
-  - Jose Luis
-  - Julio
+  - JoseLuis
+  - J. Caballero
   - Inaki
-  - Erix
+  - E.W. Hernandez-Rodriguez
   - Javi
 date: "2020-06-16"
 doi: "10.1021/acscatal.0c00981"
