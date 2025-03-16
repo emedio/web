@@ -1,13 +1,13 @@
 ---
 title: "QM/MM study of l-lactate oxidation by flavocytochrome: B2"
 authors:
-  - Natasha
+  - N. Guillet
   - Javi
-  - Aurelien
-  - Levy
-  - Lederer
-  - Demachy
-  - Vicente
+  - A. de la Lande
+  - B. Levy
+  - F. Lederer
+  - I. Demachy
+  - V. Moliner
 date: "2016-05-18"
 doi: "10.1039/c6cp00395h"
 
