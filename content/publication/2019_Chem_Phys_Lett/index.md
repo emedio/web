@@ -1,11 +1,11 @@
 ---
 title: "A molecular dynamics study on the role of the protonation state in the biosynthesis of R-PAC by AHAS"
 authors:
-  - Omar
+  - O. Alvarado
   - Rafa
   - Javi
   - Inaki
-  - Eduardo
+  - E.J. Delgado
 date: "2019-02-14"
 doi: "10.1016/j.cplett.2018.12.039"
 
