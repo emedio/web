@@ -2,12 +2,12 @@
 title: "Minimization of dynamic effects in the evolution of dihydrofolate reductase"
 authors:
   - Javi
-  - Enas
-  - Louis
-  - Joel
+  - E. Behiry
+  - L.Y.P. Luk
+  - E.J. Loveridge
   - Inaki
-  - Vicente
-  - Rudolf
+  - V. Moliner
+  - R.K Allemann
 date: "2016-02-03"
 doi: "10.1039/c5sc04209g"
 
