@@ -3,8 +3,8 @@ title: "Why are some enzymes dimers? Flexibility and catalysis in thermotoga mar
 authors:
   - Javi
   - Inaki
-  - Vicente
-  - Rudolf
+  - V. Moliner
+  - R.K. Allemann
 date: "2019-05-13"
 doi: "10.1021/acscatal.9b01250"
 
