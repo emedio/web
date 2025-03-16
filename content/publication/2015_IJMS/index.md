@@ -1,12 +1,12 @@
 ---
 title: "Tuning the phosphoryl donor specificity of dihydroxyacetone kinase from ATP to inorganic polyphosphate. An insight from computational studies"
 authors:
-  - Israel
-  - Isabel
-  - Raquel
+  - I. Sánchez-Moreno
+  - I. Bordes
+  - R. Castillo
   - Javi
-  - Vicente
-  - Eduardo
+  - V. Moliner
+  - E. García-Junceda
 date: "2015-11-24"
 doi: "10.3390/ijms161126073"
 
