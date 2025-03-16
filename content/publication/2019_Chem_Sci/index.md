@@ -1,13 +1,13 @@
 ---
 title: "Translocation of enzymes into a mesoporous MOF for enhanced catalytic activity under extreme conditions"
 authors:
-  - Jose
-  - Neyvis
-  - Belen
+  - J. Navarro-Sanchez
+  - N. Almora-Barrios
+  - B. Lerma-Berlanga
   - Javi
-  - Victor
+  - V.A. Lorenz-Fonfria 
   - Inaki
-  - Carlos
+  - C. Marti-Gastaldo
 date: "2019-04-14"
 doi: "10.1039/c9sc00082h"
 
