@@ -1,12 +1,12 @@
 ---
 title: "Isotope Substitution of Promiscuous Alcohol Dehydrogenase Reveals the Origin of Substrate Preference in the Transition State"
 authors:
-  - Enas
+  - E. M. Behiry
   - Javi
-  - Louis
+  - L.Y.P Luk
   - Inaki
-  - Vicente
-  - Rudolf
+  - V. Moliner
+  - R.K. Allemann
 date: "2018-03-12"
 doi: "10.1002/anie.201712826"
 
