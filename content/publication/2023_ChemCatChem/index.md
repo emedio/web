@@ -1,9 +1,9 @@
 ---
 title: "Insights into the Structural and Energetic Descriptions of Ubiquitin Specific Protease 7 (USP7) Catalytic Mechanisms by Hybrid QM/MM Simulations"
 authors:
-  - Jose Luis
-  - Julio
-  - Jans
+  - JoseLuis
+  - J. Caballero
+  - J. Alzate-Morales
   - Javi
   - Inaki
 date: "2023-06-14"
