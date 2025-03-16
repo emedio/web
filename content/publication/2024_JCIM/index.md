@@ -1,9 +1,9 @@
 ---
 title: "Understanding the Interactions of Ubiquitin-Specific Protease 7 with Its Substrates through Molecular Dynamics Simulations: Insights into the Role of Its C-Terminal Domains in Substrate Recognition"
 authors:
-  - Jose Luis
-  - Julio
-  - Jans
+  - JoseLuis
+  - J. Caballero
+  - J. Alzate-Morales
   - Javi
   - Inaki
 date: "2024-05-04"
