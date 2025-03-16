@@ -1,11 +1,11 @@
 ---
 title: "Mechanistic study of the biosynthesis of R-phenylcarbinol by acetohydroxyacid synthase enzyme using hybrid quantum mechanics/molecular mechanics simulations"
 authors:
-  - Omar
+  - O. Alvarado
   - Rafa
   - Javi
   - Inaki
-  - Eduardo
+  - E.J. Delgado 
 date: "2021-04-15"
 doi: "10.1016/j.abb.2021.108807"
 
