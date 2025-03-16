@@ -3,9 +3,9 @@ title: "Temperature dependence of dynamic, tunnelling and kinetic isotope effect
 authors:
   - Maite
   - Javi
-  - Raquel
-  - Monica
-  - Vicente
+  - R. Castillo
+  - M. Oliva
+  - V. Moliner
 date: "2018-09-18"
 doi: "10.1039/c8cp04244f"
 
