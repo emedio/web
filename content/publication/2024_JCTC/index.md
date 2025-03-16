@@ -2,9 +2,9 @@
 title: "Electrostatics as a Guiding Principle in Understanding and Designing Enzymes"
 authors:
   - Javi
-  - Kasia
-  - Joan Bertran
-  - Vicente
+  - K. Swiderek
+  - J. Bertran
+  - V. Moliner
   - Inaki
 date: "2024-02-27"
 doi: "10.1021/acs.jctc.3c01395"
