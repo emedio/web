@@ -1,12 +1,12 @@
 ---
 title: "Loss of Hyperconjugative Effects Drives Hydride Transfer during Dihydrofolate Reductase Catalysis"
 authors:
- - Antonio 
- - Javi
+  - A. Angelastro
+  - Javi
   - Inaki
-  - Vicente
-  - Louis
-  - Rudolf
+  - V. Moliner
+  - L.Y.P. Luk
+  - R.K. Allemann
 date: "2019-09-23"
 doi: "10.1021/acscatal.9b02839"
 
