@@ -1,10 +1,10 @@
 ---
 title: "A computational study of the phosphoryl transfer reaction between ATP and Dha in aqueous solution"
 authors:
-  - Isabel
+  - I. Bordes
   - Javi
-  - Raquel
-  - Vicente
+  - R. Castillo
+  - V. Moliner
 date: "2015-08-12"
 doi: "10.1039/c5ob01079a"
 
