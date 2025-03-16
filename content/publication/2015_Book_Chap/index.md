@@ -2,7 +2,7 @@
 title: "Exploring Chemical Reactivity in Enzyme Catalyzed Processes Using QM/MM Methods: An Application to Dihydrofolate Reductase"
 authors:
   - Javi
-  - Vicente
+  - V. Moliner
   - Inaki
 date: "2015-10-14"
 doi: "10.1007/978-3-319-21626-3_15"
