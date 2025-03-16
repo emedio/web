@@ -1,13 +1,13 @@
 ---
 title: "Chemical Ligation and Isotope Labeling to Locate Dynamic Effects during Catalysis by Dihydrofolate Reductase"
 authors:
-  - Louis
+  - L.Y.P. Louis
   - Javi
-  - Adesina
-  - Joel
+  - A.S. Adesina
+  - E.J. Loveridge
   - Inaki
-  - Vicente
-  - Rudolf
+  - V. Moliner
+  - R.K. Allemann
 date: "2015-07-01"
 doi: "10.1002/anie.201503968"
 
