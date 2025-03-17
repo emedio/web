@@ -13,7 +13,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The project aims to unravel the chemical mechanism of N-glycosylation in oligosaccharyltransferase (OST) complex, a crucial post-translational modification that influences protein folding, stability, and function, particularly for membrane and secretory proteins. 
+The project aims to unravel the chemical mechanism of N-glycosylation in oligosaccharyltransferase (OST) complex, a crucial post-translational modification that influences protein folding, stability, and function.
 
 <!--more-->
 
