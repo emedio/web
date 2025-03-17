@@ -25,7 +25,7 @@ sections:
         image:
           filename: background.png
       spacing:
-        padding: ['10px', '0', '10px', '0']
+        padding: ['10px', '10px', '0', '0']
   
   - block: collection
     content:
