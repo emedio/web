@@ -11,7 +11,7 @@ sections:
       image:
         filename: nada.png
       text: |
-          Tuñón Lab is a research group led by Prof. Iñaki Tuñón based in the Department of Physical Chemistry at the University of Valencia. The group focuses on the theoretical description of chemical processes in condensed phases, solutions and biological environments, combining advanced theoretical methods with simulations.
+          The Tuñón Lab, research group led by Prof. Iñaki Tuñón, is based in the Department of Physical Chemistry at the University of Valencia. The group focuses on the theoretical description of chemical processes in condensed phases, solutions and biological environments, combining advanced theoretical methods with simulations.
       cta:
         label: Research
         url: research
