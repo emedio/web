@@ -57,7 +57,7 @@ sections:
           size: auto
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '0', '0']
+        padding: ['30px', '0', '0', '0']
       css_class: fullscreen
 
 ---
