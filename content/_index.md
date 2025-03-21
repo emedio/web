@@ -43,7 +43,7 @@ sections:
   - block: markdown
     content:
       title: ' '
-      subtitle: 'Grants and funding'
+      subtitle: 'Support and Funding'
       text:
     design:
       columns: '1' 
