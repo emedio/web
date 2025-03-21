@@ -40,4 +40,24 @@ sections:
       view: masonry
       columns: '1'
 
+  - block: markdown
+    content:
+      title: Support
+      subtitle: ''
+      text:
+    design:
+      columns: '1' 
+      background:
+        image: 
+          filename: financiers.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: auto
+          text_color_light: true
+      spacing:
+        padding: ['100px', '0', '0', '0']
+      css_class: fullscreen
+
 ---
