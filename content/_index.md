@@ -23,7 +23,7 @@ sections:
         image:
           filename: background.png
       spacing:
-        padding: ['100px', '0', '0', '0']
+        padding: ['100px', '0', '0', '100px']
   
   - block: collection
     content:
