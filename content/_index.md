@@ -42,8 +42,8 @@ sections:
 
   - block: markdown
     content:
-      title: Support
-      subtitle: ''
+      title: ' '
+      subtitle: 'Grants and funding'
       text:
     design:
       columns: '1' 
