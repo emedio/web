@@ -8,7 +8,7 @@ sections:
   - block: contact
     content:
       title: Contact us
-      email: tunon@uv.es
+      email: ignacio.tunon@uv.es
       phone:  +34 963 544 880
       contact_links:
         - icon: twitter
