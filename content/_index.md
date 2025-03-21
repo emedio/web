@@ -11,7 +11,7 @@ sections:
       image:
         filename: nada.png
       text: |
-          The Medium Effects Research Group, led by Prof. Iñaki Tuñón, is based in the Department of Physical Chemistry at the University of Valencia. Our research delves into the theoretical characterization of chemical processes occurring in condensed phases, solutions, and biological environments. By integrating advanced theoretical methodologies with computational simulations, we aim to elucidate the complexities of chemical reactivity and mechanism. Our work not only enhances the fundamental understanding of chemical processes but also contributes to the development of new simulation methods, helping to refine computational approaches. These insights have practical applications across various fields, including drug design and enzyme catalysis.
+          The Medium Effects Research Group, led by Prof. Iñaki Tuñón, is based in the Department of Physical Chemistry at the University of Valencia. Our research delves into the theoretical characterization of chemical processes occurring in condensed phases, solutions, and biological environments, integrating advanced theoretical methodologies with computational simulations. These insights have practical applications across various fields, including drug design and enzyme catalysis.
       cta:
         label: Research
         url: research
