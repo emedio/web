@@ -7,7 +7,7 @@ first_name: Julie
 last_name: Puyo-Fourtine
 
 # Role/position
-role: PhD Student
+role: Visitor
 
 # # Organizations/Affiliations
 organizations:
