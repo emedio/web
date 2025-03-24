@@ -19,6 +19,10 @@ sections:
           name: EfmeGroup Bluesky
           icon_pack: fas
           link: https://bsky.app/profile/efmegroup.bsky.social
+       - icon: github
+          name: EfmeGroup GitHub
+          icon_pack: fab
+          link: https://github.com/emedio
       address:
         street: Calle Dr. Moliner 50
         city: Burjassot
