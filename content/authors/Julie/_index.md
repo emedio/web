@@ -12,7 +12,7 @@ role: PhD Student
 # # Organizations/Affiliations
 organizations:
   - name: French National Centre for Scientific Research
-    url: 'https://www.cnrs.fr/en/the-cnrs'
+    url: 'https://www.cnrs.fr/en'
 
 interests:
   - Advanced force field for nucleic acids and ions
