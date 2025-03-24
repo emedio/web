@@ -20,7 +20,7 @@ interests:
 
 education:
   courses:
-    - course: M.Sc. in chemistry
+    - course: M.Sc. in Theoretical Chemistry and Computational Modelling
       institution: Universidad de Valencia
       year: 2024
 
