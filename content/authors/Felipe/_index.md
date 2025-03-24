@@ -11,8 +11,8 @@ role: Visitor
 
 # # Organizations/Affiliations
 organizations:
-  - name: University of Talca
-    url: 'https://www.unimib.it/carla-orlando'
+  - name: University of Talca (Chile)
+    
 
 interests:
   - Nanotechnology
