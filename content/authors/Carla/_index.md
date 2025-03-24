@@ -7,7 +7,7 @@ first_name: Carla
 last_name: Orlando
 
 # Role/position
-role: PhD Student
+role: Visitor
 
 # # Organizations/Affiliations
 organizations:
