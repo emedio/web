@@ -15,7 +15,9 @@ organizations:
     url: 'https://www.cnrs.fr/en/the-cnrs'
 
 interests:
-  - Multiscale computational approaches for modeling biologically relevant enzymes
+  - Advanced force field for nucleic acids and ions
+  - Free energy calculations
+  - Enhanced sampling
 
 education:
   courses:
