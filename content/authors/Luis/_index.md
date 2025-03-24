@@ -7,7 +7,7 @@ first_name: Luis Fernando
 last_name: Orta Parra
 
 # Role/position
-role: Master Student
+role: MSc Student
 
 # # Organizations/Affiliations
 # organizations:
