@@ -7,8 +7,7 @@ first_name: Marion
 last_name: Cunin
 
 # Role/position
-role: MSc Student
-
+role: Visitor
 # # Organizations/Affiliations
 # organizations:
 #   - name: École Normale Supérieure PSL
