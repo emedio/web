@@ -2,6 +2,7 @@
 title: "Improved Description of Environment and Vibronic Effects with Electrostatically Embedded ML Potentials"
 authors:
   - Kirill
+  - Carles Curutchet
 date: "2025-01-13"
 doi: "10.1021/acs.jpclett.4c02949"
 
