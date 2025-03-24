@@ -21,6 +21,12 @@ interests:
 
 education:
   courses:
+    - course: M.Sc. in Physical and Theoretical Chemistry
+      institution: Sorbonne Université, Paris (France)
+      year: 2021
+    - course: PhD in Physical and Theoretical Chemistry
+      institution: Laboratoire de Biochimie Théorique, CNRS, IBPC, Paris (France)
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -29,7 +35,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:puyo@ibpc.fr'
+    link: 'mailto:puyo.julie@outlook.fr'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
