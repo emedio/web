@@ -15,6 +15,10 @@ sections:
           name: EfmeGroup Twitter
           icon_pack: fab
           link: https://x.com/EfmeGroup
+        - icon: cloud
+          name: EfmeGroup Bluesky
+          icon_pack: fas
+          link: https://bsky.app/profile/efmegroup.bsky.social
       address:
         street: Calle Dr. Moliner 50
         city: Burjassot
