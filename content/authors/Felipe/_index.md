@@ -43,5 +43,3 @@ social:
 user_groups:
   - Visitors
 ---
-
-Carla obtained her Master's Degree in Pharmaceutical Technology at the University of Calabria (Italy) in 2020. In 2021, she was awarded a postgraduate research fellowship at the Department of Chemistry and Chemical Technologies of the University of Calabria, focusing on the theoretical study and characterization of selected molecules for personalized molecular therapy, under the supervision of Prof. Tiziana Marino. In 2022, she started her PhD in Chemistry at the University of Milano-Bicocca with a fellowship on the project Multiscale computational approaches to the modelling of lytic polysaccharide monooxygenases (LPMOs) and bacterial cytochrome P450 (CYP) variants, supervised by Professors Luca Bertini and Tiziana Marino and tutored by Prof. Claudio Greco. In September 2024, she started a research stay at the University of Valencia, Instituto de Ciencia Molecular (ICMol), under the supervision of Prof. Iñaki Tuñón and Prof. Juan Aragó.
