@@ -1,5 +1,5 @@
 ---
-date: 2025-29-04
+date: 2025-04-29
 ---
 
 Our paper on the catalytic mechanism and conformational dynamics of guinea pig l-asparaginase type 1 has just been published in ACS Catalysis!
