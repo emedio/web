@@ -1,5 +1,5 @@
 ---
-date: 2025-13-06
+date: 2025-06-13
 ---
 
 This Tuesday, Milorad Andjelkovic, a member of our research group, will defend his PhD thesis. Come be part of the discussion and show support!
