@@ -18,5 +18,5 @@ social:
     link: 'mailto:nicolas.fuentes@ug.uchile.cl'
 superuser: false
 user_groups:
-  - Students
+  - Visitors
 ---
