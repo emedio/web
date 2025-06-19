@@ -1,6 +1,6 @@
 ---
 title: Nicolás Andrés Fuentes-Ugarte
-role: PhD Student
+role: Visitor
 avatar_filename: avatar.png
 
 education:
