@@ -2,7 +2,7 @@
 date: 2025-06-17
 ---
 
-Milorad Andjelkovic, a member of our research group, successfully defended his PhD thesis this Tuesday — congratulations, Dr. Milorad!
+Milorad Andjelkovic, a member of our research group, successfully defended his PhD thesis this Tuesday — congratulations, Dr. Andjelkovic!
 
 <!--more-->
 
