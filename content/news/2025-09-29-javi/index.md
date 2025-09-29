@@ -7,4 +7,4 @@ We are thrilled to announce that the member of our research group, Jose Javier R
 
 <!--more-->
 
-Last week, the member of our research group, J. Javier Ruiz-Pernía has been promoted to Full Professor. Congrats Javier! 
+Congrats Javier! 
