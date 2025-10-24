@@ -14,7 +14,7 @@ sections:
         - icon: twitter
           name: EfmeGroup Twitter
           icon_pack: fab
-          link: https://x.com/LabTunon
+          link: https://x.com/Tunon_Lab
         - icon: cloud
           name: EfmeGroup Bluesky
           icon_pack: fas
