@@ -7,7 +7,7 @@ first_name: Rubén
 last_name: Montagud Andreu
 
 # Role/position
-role: MSc Student
+role: PhD Student
 
 # # Organizations/Affiliations
 # organizations:
