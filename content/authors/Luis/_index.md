@@ -7,7 +7,7 @@ first_name: Luis Fernando
 last_name: Orta Parra
 
 # Role/position
-role: MSc Student
+role: PhD Student
 
 # # Organizations/Affiliations
 # organizations:
@@ -50,3 +50,4 @@ user_groups:
 ---
 
 Luis obtained his BSc in Chemistry and Nanotechnology Engineering from Instituto Tecnológico y de Estudios Superiores de Monterrey (Mexico) in 2023. As part of his undergraduate studies, he was awarded the DAAD KOSPIE scholarship to spend a year at Friedrich-Alexander-Universität Erlangen-Nürnberg (Germany), where he conducted an internship at the Gmeiner Lab, modeling ligand and allosteric modulator binding on dopamine D1 and D2 receptors. He is currently in the second year of the Erasmus Mundus master’s programme in Theoretical Chemistry and Computational Modelling at the Universitat de València. His MSc thesis, supervised by Prof. Iñaki Tuñón and Prof. Javier Ruiz Pernía, focuses on using computational free energy methods to study the GTP hydrolysis mechanism of the small GTPase H-Ras.
+
