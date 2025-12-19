@@ -18,7 +18,7 @@ sections:
         - icon: cloud
           name: EfmeGroup Bluesky
           icon_pack: fas
-          link: https://bsky.app/profile/efmegroup.bsky.social
+          link: https://bsky.app/profile/tunonlab.bsky.social
         - icon: github
           name: EfmeGroup GitHub
           icon_pack: fab
