@@ -6,4 +6,4 @@ Happy Holidays!
 
 <!--more-->
 
-Marry Christmas and Happy New Year!
+Merry Christmas and Happy New Year!
