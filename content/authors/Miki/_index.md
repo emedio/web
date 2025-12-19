@@ -30,7 +30,7 @@ education:
       institution: Univeristy of Belgrade
       year: 2019
 user_groups:
-  - Members
+  - Former Members
 ---
 
-Milorad obtained his BSc in Physical Chemistry from the University of Belgrade (Serbia) in 2019. He then pursued a Master’s degree in Theoretical Chemistry and Computational Modelling at the University of Valencia, under the supervision of Prof. Iñaki Tuñón and Prof. José Javier Ruiz Pernía. His MSc thesis was awarded Best Master’s Thesis by the Territorial Section of Valencia of the Royal Spanish Society of Chemistry (RSEQ). He completed his PhD in Theoretical Chemistry at the University of Valencia in June 2025, supported by the “la Caixa” INPhINIT Retaining Fellowship. His research interests include enzymatic catalysis, protein design and the application of theoretical chemistry methods to the de novo enzyme design.
+Milorad got his BSc in Physical Chemistry from the University of Belgrade (Serbia) and went on to complete an MSc in Theoretical Chemistry and Computational Modelling at the University of Valencia. His master thesis was recognized as the Best Master’s Thesis by the Royal Spanish Society of Chemistry (RSEQ). He received his PhD in Theoretical Chemistry from the University of Valencia in June 2025, supported by the “la Caixa” INPhINIT Retaining Fellowship. His research focuses on enzymatic catalysis and de novo enzyme design.
