@@ -12,11 +12,11 @@ sections:
       phone:  +34 963 544 880
       contact_links:
         - icon: twitter
-          name: EfmeGroup Twitter
+          name: TunonLab Twitter
           icon_pack: fab
           link: https://x.com/Tunon_Lab
         - icon: cloud
-          name: EfmeGroup Bluesky
+          name: TunonLab Bluesky
           icon_pack: fas
           link: https://bsky.app/profile/tunonlab.bsky.social
         - icon: github
