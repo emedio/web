@@ -20,7 +20,7 @@ sections:
           icon_pack: fas
           link: https://bsky.app/profile/tunonlab.bsky.social
         - icon: github
-          name: EfmeGroup GitHub
+          name: TunonLab GitHub
           icon_pack: fab
           link: https://github.com/emedio
       address:
