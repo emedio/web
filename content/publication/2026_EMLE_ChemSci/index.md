@@ -2,14 +2,14 @@
 title: "Simulating enzyme catalysis with electrostatically embedded machine learning potentials"
 authors:
   - Valentin
-  - E. W. Chan
-  - L. Hedges
+  - Elliot W. Chan
+  - Lester Hedges
   - Meri
-  - R. David
-  - M. de la Puente
-  - D. Laage
+  - Rolf David
+  - Miguel de la Puente
+  - Damien Laage
   - Inaki
-  - M. W. van der Kamp
+  - Marc W. van der Kamp
   - Kirill
 date: "2026-03-10"
 doi: "10.1039/D6SC01156J"
