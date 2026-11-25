@@ -33,7 +33,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:luisorpa@alumni.uv.es'
+    link: 'mailto:luis.orta@uv.es'
   - icon: linkedin
     icon_pack: brands
     link: www.linkedin.com/in/luisf-orta
