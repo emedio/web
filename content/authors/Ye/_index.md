@@ -21,7 +21,7 @@ interests:
 education:
   courses:
     - course: M.Sc. in Environmental engineering, pollutant metabolism, DFT theory calculations 
-      institution: China University of Technology
+      institution: China University of Mining and Technology
       year: 2024
 
 # Social/Academic Networking
