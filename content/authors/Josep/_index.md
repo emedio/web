@@ -54,7 +54,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Former members
+  - Students
 ---
 
 Josep Clar Martí studied the Double Degree in Physics and Chemistry at the University of València (2021-2026) and is currently in the first year of the Erasmus Mundus Joint Master in Theoretical Chemistry and Computational Modelling. During his undergraduate studies, he was awarded the KEK-SOKENDAI scholarship to spend two months at J-PARC working on the Muon g-2/EDM experiment. In his chemistry bachelor’s thesis, supervised by Iñaki Tuñón and Javier Ruiz Pernía with a research collaboration fellowship from the Spanish Ministry of Education, he used molecular dynamics simulations to study how RNA binding reshapes the conserved motifs of the dengue virus NS3 helicase. His master’s thesis returns to this enzyme, combining machine learning methods with the study of its reactivity.
