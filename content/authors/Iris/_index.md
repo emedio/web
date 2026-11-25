@@ -46,7 +46,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - Former members
 ---
 
 Iris obtained her BSc in Chemistry from the University of Zaragoza in 2023, including an Erasmus stay at Queen’s University Belfast (UK). Her academic background reflects a multidisciplinary profile, with research experiences in crystallography, materials science, and environmental chemistry, including research stays at the University of Bayreuth (Germany) and Universidade Estadual Paulista (Brazil), where she worked on carbon capture using the calcium looping technique. She also worked as an R&D trainee in the Chemicals Department at SAICA, contributing to projects on migration of recycled paper pollutants and bacterial production of polyhydroxyalkanoates (PHAs). She is currently pursuing the Erasmus Mundus Master’s programme in Theoretical Chemistry and Computational Modelling at the Universitat de València (2024–2026), where her MSc thesis focuses on the computational study of ATP hydrolysis in NS3 helicases of the Hepatitis C virus.
