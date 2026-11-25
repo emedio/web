@@ -19,6 +19,9 @@ interests:
 
 education:
   courses:
+    - course: M.Sc. in theoretical chemistry and computational modeling
+      institution: Universidad de Valencia
+      year: 2023-2025
     - course: B.Sc. in chemistry
       institution: Universidad de Valencia
       year: 2023
