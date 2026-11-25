@@ -11,7 +11,7 @@ role: Visitor
 
 # # Organizations/Affiliations
 organizations:
-  - name: Universidad de Talca, Chile
+  - name: Universidad de Talca (Chile)
 
 interests:
   - Enzymatic reaction mechanisms
