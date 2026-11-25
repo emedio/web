@@ -20,6 +20,9 @@ interests:
 
 education:
   courses:
+    - course: PhD student in Chemical Sciences 
+      institution: Lodz University of Technology
+      year: 2024-present
     - course: M.Sc. in Environmental engineering, pollutant metabolism, DFT theory calculations 
       institution: China University of Mining and Technology
       year: 2024
