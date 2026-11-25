@@ -20,7 +20,7 @@ interests:
 
 education:
   courses:
-    - course: M.Sc. in Chemistry 
+    - course: M.Sc. in Environmental engineering, pollutant metabolism, DFT theory calculations 
       institution: China University of Technology
       year: 2024
 
@@ -31,7 +31,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:l.sanchezleon@uandresbello.edu'
+    link: 'mailto:ye.han@dokt.p.lodz.pl'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
